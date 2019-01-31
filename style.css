@@ -1,0 +1,28 @@
+body {
+  margin: 0px;
+  background-color: #cecbcb;
+  font-family: 'Times New Roman', Times, serif
+}
+
+.red {
+  border-top: 5px solid red;
+  border-bottom: 5px solid red;
+}
+
+.title {
+  font-size: 4rem;
+}
+
+.bowling-img {
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+  color: red;
+}
