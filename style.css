@@ -1,7 +1,8 @@
 body {
   margin: 0px;
   background-color: #cecbcb;
-  font-family: 'Times New Roman', Times, serif
+  font-family: 'Times New Roman', Times, serif;
+  height: 2000px;
 }
 
 .red {
@@ -25,4 +26,22 @@ a {
 a:hover {
   text-decoration: none;
   color: red;
+}
+
+.white-cards {
+  background-color: white;
+}
+
+.fas {
+  color: red;
+}
+
+.blur-bowling {
+  width: 800px;
+  height: 250px;
+  object-fit: cover;
+}
+
+.dark-text {
+  font-weight: 600;
 }
