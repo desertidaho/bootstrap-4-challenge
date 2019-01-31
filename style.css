@@ -5,9 +5,8 @@ body {
   height: 2000px;
 }
 
-.red {
+.red-top {
   border-top: 5px solid red;
-  border-bottom: 5px solid red;
 }
 
 .title {
