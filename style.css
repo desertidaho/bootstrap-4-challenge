@@ -48,3 +48,50 @@ a:hover {
 .b-white {
   border: 10px solid white;
 }
+
+@media only screen and (max-width: 768px) {
+
+  .title {
+    font-size: 2em;
+  }
+
+  .nav {
+    font-size: 0.7em;
+  }
+
+  .white-cards p {
+    padding: 0 20px;
+  }
+
+  .bowling-img {
+    width: 300px;
+    height: 200px;
+  }
+
+  h2 {
+    font-size: 1.1em;
+  }
+
+  .blur-bowling {
+    margin: 0;
+    width: 300px;
+    height: 150px;
+  }
+
+  .top-imgs {
+    margin: 10px 0;
+  }
+
+  .fourth-img {
+    margin-top: -10px;
+  }
+
+  .foot-nav {
+    margin: 0 auto;
+  }
+
+  .f-bottom {
+    margin-top: 20px;
+  }
+
+}
