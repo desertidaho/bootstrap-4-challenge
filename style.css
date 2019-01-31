@@ -2,10 +2,10 @@ body {
   margin: 0px;
   background-color: #cecbcb;
   font-family: 'Times New Roman', Times, serif;
-  height: 2000px;
 }
 
-.red-top {
+.red-top,
+.red-bottom {
   border-top: 5px solid red;
 }
 
@@ -43,4 +43,8 @@ a:hover {
 
 .dark-text {
   font-weight: 600;
+}
+
+.b-white {
+  border: 10px solid white;
 }
